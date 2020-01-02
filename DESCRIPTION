@@ -1,0 +1,10 @@
+Package: astroStat
+Title: astroDots (image-J plug-in) data analysis
+Version: 1.1.0
+Authors@R: person("Romain", "Tortuyaux", email = "rtortuyaux@live.fr", role = c("aut", "cre"))
+Description: astroDots (image-J plug-in) data analysis : quantification and repartition of fluorescent punctiforme signal in microscopy
+Depends: R (>= 3.5.0)
+License: Apache 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
